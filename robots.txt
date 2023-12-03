@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: michellekimgit.github.io/sitemap.xml
+Sitemap: minsolmichellekim.github.io/sitemap.xml
