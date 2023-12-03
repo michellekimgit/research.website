@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: minsolmichellekim.github.io/sitemap.xml
+Sitemap: https://minsolmichellekim.github.io/sitemap.xml
